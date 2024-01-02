@@ -22,6 +22,9 @@ Include screenshots or GIFs of your calculator app in this section to give users
 
 ![calci ss](https://github.com/Kamu08/Javascript_Projects/assets/87929852/efd31608-fab9-452e-af89-21b66428d453)
 
+
+![Screenshot 2024-01-02 172347](https://github.com/Kamu08/Javascript_Projects/assets/87929852/8749764d-c19e-4bba-bba4-d9fbc9175818)
+
 ## 🚀 Usage
 
 1. Clone the repository:
