@@ -7,6 +7,5 @@ This calculator app allows users to perform basic arithmetic operations such as 
 
 ## 🖼️ Screenshots
 
-Include screenshots or GIFs of your calculator app in this section to give users a visual preview.
 
 
