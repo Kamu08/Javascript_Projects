@@ -7,5 +7,29 @@ This calculator app allows users to perform basic arithmetic operations such as 
 
 ## 🖼️ Screenshots
 
+## 🌐 Calculator
+
+This calculator app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a pleasant gradient color scheme, providing an aesthetic experience.
+
+## 🖼️ Screenshots
+
+## 🌐 Calculator
+
+This calculator app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a pleasant gradient color scheme, providing an aesthetic experience.
+
+## 🖼️ Screenshots
+
+## 🌐 Calculator
+
+This calculator app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a pleasant gradient color scheme, providing an aesthetic experience.
+
+## 🖼️ Screenshots
+
+## 🌐 Calculator
+
+This calculator app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a pleasant gradient color scheme, providing an aesthetic experience.
+
+## 🖼️ Screenshots
+
 
 
