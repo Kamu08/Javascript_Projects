@@ -33,11 +33,14 @@ Remove Friend :- If the need arises, retract the request just as effortlessly.
 
 ## 🌐 04_Insta Story
 
-This calculator app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed with a pleasant gradient color scheme, providing an aesthetic experience.
+Unveil the magic of storytelling with our Tap-to-View Insta Stories feature. Users can effortlessly dive into captivating moments by simply tapping on intriguing story previews.
 
 ## 🖼️ Screenshots
 
 ![i1](https://github.com/Kamu08/Javascript_Projects/assets/87929852/65cbcb0f-298a-4a77-9f41-184051486199)
+
+This interactive experience brings stories to the forefront, providing a seamless and engaging way to explore dynamic content.
+
 ![i2](https://github.com/Kamu08/Javascript_Projects/assets/87929852/4fb31449-058d-4e92-9103-a557184a28b0)
 
 ## 🌐 05_Insta Post Like Feature
